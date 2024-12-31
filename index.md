@@ -23,4 +23,4 @@ if (password2 === "li'l joe") {alert("Correct");}
 else {while(true) {alert("Incorrect, Get out");}}
 </script>
 
-<a href="code.html"><button>Click</button></a>
+<a href="code.html"><button>Game Vault</button></a>
