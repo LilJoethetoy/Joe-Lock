@@ -4,7 +4,7 @@
 </body>
 
 <script>
-    let confirmID = confirm("Are you a person of the Li'l Anti-BloSi Joes");
+    let confirmID = confirm("Are you a person of 'The Joelock'");
 if (confirmID === false) {while(true) {alert("Incorrect, Get out");}}
 //qustion  ^^ 
 
