@@ -1,6 +1,5 @@
 
 <body style="background-color:#252334;">
-    title: LABSJ
     <link rel="icon" href="LABSJ.ico">
 </body>
 
