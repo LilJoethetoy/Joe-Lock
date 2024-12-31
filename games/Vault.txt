@@ -1,0 +1,1 @@
+So here is how to bypass blocksi: to bypass Blocksi is by changing your DNS (Domain Name System) settings. DNS is responsible for translating domain names into IP addresses. By changing your DNS settings to a different DNS server, you can bypass the DNS filtering implemented by Blocksi and access blocked websites.
