@@ -1,6 +1,6 @@
 
 <body style="background-color:#252334;">
-    <title>Li'l Anti-BloSi Joes</title>
+    title:LABSJ
     <link rel="icon" href="LABSJ.ico">
 </body>
 
