@@ -5,7 +5,7 @@
 
 <script>
     let confirmID = confirm("Are you a person of 'The Joelock'");
-if (confirmID === false) {while(true) {alert("Incorrect, Get out");}}
+if (confirmID === false) {while(true) {alert("Close the tab");}}
 //qustion  ^^ 
 
 //password number vv
