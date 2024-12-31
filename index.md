@@ -21,6 +21,6 @@ if (password2 === "li'l joe") {alert("Correct");}
 //correct ^^
 //penalty vv
 else {while(true) {alert("Incorrect, Get out");}}
-window.location.href = "code.html";
+window.location.href = "hub.html";
 </script>
 
